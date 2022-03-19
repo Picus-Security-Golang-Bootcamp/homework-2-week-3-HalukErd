@@ -1,4 +1,4 @@
-#Medium Article About Concurrency in Go
+# Medium Article About Concurrency in Go
 https://medium.com/@erd.haluk/concurrency-in-golang-how-and-how-come-is-different-e702a59156a0
 
 # Explanation
